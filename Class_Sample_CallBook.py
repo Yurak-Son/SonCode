@@ -1,6 +1,6 @@
 class Entity:
     def __init__(self):
-        self._name = ''
+        self.__name__ = ''
         self._phone = ''
         self._email = ''
         self._addr = ''

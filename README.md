@@ -11,3 +11,7 @@ github atom 연계 사용법
 1-4 git remote add origin https://github.com/(name)/(repositories명).git
 1-5 git remote -v
 1-6 git pull --allow-unrelated-histories
+
+2. Branch defalt 값은 main이고 같은 프로잭트에 작업자를 나눠서 작업할수있다.
+
+3. --allow-unrelated-histories 프로잭트에 파일 차이가 많이나서 오류뜨는걸 막아줄수있다.
